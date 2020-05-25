@@ -18,4 +18,4 @@ npm start
 ---
 자세한건 [Notion][node-link]
 
-[node-link]: http
+[node-link]: https://www.notion.so/vue-lazy-loading-b222c607a2044452b065f2f0ae2f962d
